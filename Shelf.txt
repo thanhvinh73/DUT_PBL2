@@ -1,8 +1,0 @@
-DKBH01-Drink-0
-DKBL02-Drink-0
-DKSDC03-Drink-0
-DKSDO04-Drink-0
-CMWPO01-Cosmetics-0
-CMWPA02-Cosmetics-0
-CMSR03-Cosmerics-0
-CMSX03-Cosmerics-0

@@ -1,0 +1,104 @@
+274116,Banh gao Nhat Ichi,Nhat Ban,Banh keo,03/09/2024,14,14000000,06/02/2022
+498802,Banh cracker AFC vi lua mach,Viet Nam,Banh keo,09/06/2024,11,3100000,14/08/2022
+515187,Banh bong lan Orion C'est Bon,Han Quoc,Banh keo,12/04/2023,17,14900000,06/04/2022
+813571,Banh Chocopie Orion vi cacao,Viet Nam,Banh keo,29/06/2024,31,15700000,12/05/2022
+806088,Keo deo Cola Chupa Chups goi,Viet Nam,Banh keo,08/07/2024,40,7600000,13/06/2022
+359506,Snack muc lan muoi ot Poca,Hoa Ky,Banh keo,22/10/2024,49,6200000,20/01/2022
+451992,Muc tam gia vi Thai Bento,Thai Lan,Banh keo,11/06/2023,16,11400000,13/05/2022
+997114,Keo gum khong duong Xylitol,Han Quoc,Banh keo,02/12/2023,37,3000000,27/04/2022
+610897,Sua rua mat Senka,Nhat Ban,Cham soc ca nhan,12/05/2023,19,5900000,12/07/2022
+737186,Nuoc rua tay Lifebuoy,Viet Nam,Cham soc ca nhan,19/12/2023,43,6000000,27/11/2022
+156306,Kem danh rang Closeup,Hoa Ky,Cham soc ca nhan,13/02/2024,46,14400000,21/08/2022
+178983,Son Duong am huong dau Nivea,Hoa Ky,Cham soc ca nhan,07/06/2023,30,17800000,16/06/2022
+186916,Phim tham dau Jomi,Nhat Ban,Cham soc ca nhan,31/01/2023,9,7200000,09/05/2022
+546562,Giay tham dau Mayan,Han Quoc,Cham soc ca nhan,20/10/2023,25,4500000,29/10/2022
+720945,Xit chong muoi Pemous IR,Hoa Ky,Cham soc ca nhan,15/03/2024,24,7400000,29/09/2022
+635290,Sua rua mat Hadalabo,Han Quoc,Cham soc ca nhan,31/12/2022,9,12400000,02/10/2022
+928718,Nuoc tay trang B5 Hyaluron Clinic,Hoa Ky,Cham soc ca nhan,22/05/2024,39,16500000,24/11/2022
+740768,Dau goi clear Men,Viet Nam,Cham soc ca nhan,21/01/2024,49,1500000,06/01/2022
+792192,Dau goi duoc lieu Thai Duong 3,Viet Nam,Cham soc ca nhan,03/06/2024,4,18500000,06/07/2022
+660694,Dau goi duoc lieu Thai Duong 7,Viet Nam,Cham soc ca nhan,27/02/2024,34,12800000,15/08/2022
+497556,Dau goi sieu muot Rejoice,Hoa Ky,Cham soc ca nhan,24/02/2024,46,17400000,27/04/2022
+518828,Dau xa toc Pantane Pro-V,Hoa Ky,Cham soc ca nhan,02/08/2023,49,6800000,10/03/2022
+280172,Bot an dam Nestle Cerelac rau xanh,EU,Cham soc em be,27/06/2023,29,10900000,31/07/2022
+764084,Bot an dam ga NutilQ,Viet Nam,Cham soc em be,09/04/2024,39,10900000,03/07/2022
+731212,Sua tuoi tiet trung Vinamilk,Viet Nam,Cham soc em be,23/03/2023,23,5000000,27/06/2022
+238920,Ta quan Bobby M60,Hoa Ky,Cham soc em be,16/11/2023,23,10500000,03/10/2022
+559912,Ta bim Huggies Dry,Hoa Ky,Cham soc em be,17/01/2023,43,18400000,07/02/2022
+189794,Mieng lot Under Pad,EU,Cham soc em be,28/01/2023,33,3600000,13/10/2022
+299007,Sua tam goi tre em Milky Lactacy,Han Quoc,Cham soc em be,21/10/2024,11,2500000,21/02/2022
+607963,Sua tam goi Johnson's,EU,Cham soc em be,06/01/2024,28,9000000,23/01/2022
+813953,Sua tam goi toan than Carrie Hunior,Hoa Ky,Cham soc em be,04/04/2024,49,8100000,09/06/2022
+949391,Ban chai danh rang tre em Colgate Ultra Soft,Hoa Ky,Cham soc em be,05/12/2024,20,14800000,19/09/2022
+338857,Phan thom em be Johnson's Baby,Hoa Ky,Cham soc em be,25/08/2023,12,10400000,07/07/2022
+495453,Kem danh rang Xylitol dau tay kodomo,Nhat Ban,Cham soc em be,04/11/2023,42,3200000,25/06/2022
+363958,San pham ve sinh mui va dung cu Pohto,EU,Cham soc em be,11/02/2024,11,8300000,22/10/2022
+777027,Kem danh rang Oral clean mild mint,Thai Lan,Cham soc em be,23/09/2023,50,1000000,01/04/2022
+211649,Bia Red Ruby,EU,Do uong co con,24/05/2023,39,15400000,13/11/2022
+710154,Bia Budweiser,Hoa Ky,Do uong co con,16/10/2023,18,13500000,15/07/2022
+944823,Bia 333 Export,Viet Nam,Do uong co con,23/10/2023,21,9000000,16/03/2022
+674930,Bia Sapporo Premium,Nhat Ban,Do uong co con,03/05/2024,41,12800000,14/10/2022
+538340,Bia heniken Silver,EU,Do uong co con,29/07/2023,5,2400000,28/03/2022
+270146,Bia Halida,Viet Nam,Do uong co con,23/12/2024,21,1200000,12/05/2022
+579684,Bia Tuborg,Thai Lan,Do uong co con,05/05/2023,44,11600000,11/04/2022
+977350,Bia Viet,Viet Nam,Do uong co con,29/05/2024,38,9300000,03/01/2022
+170934,Nuoc tao len men StrongBow chai,EU,Do uong co con,12/08/2024,48,6100000,08/04/2022
+432392,Bia Blanc,EU,Do uong co con,19/03/2024,31,4100000,25/09/2022
+804160,Bia Beck's Ice,EU,Do uong co con,12/10/2024,44,11700000,10/05/2022
+139921,Nuoc tao len men StrongBow Apple lon,EU,Do uong co con,02/01/2023,29,19700000,18/01/2022
+555581,Cafe Mr.Brown Blue Mountain Blend lon,Hoa Ky,Do uong giai khat,14/12/2024,6,11700000,19/05/2022
+578760,Ca phe hoa tan Nescafe,Viet Nam,Do uong giai khat,16/05/2024,36,13300000,24/06/2022
+217945,Ca phe hoa tan G7,Viet Nam,Do uong giai khat,04/11/2024,36,9000000,05/02/2022
+482035,Ca phe goi Wake-up,Viet Nam,Do uong giai khat,16/08/2023,45,1600000,12/06/2022
+568160,Ca phe truyen thong Highlands Coffee,Hoa Ky,Do uong giai khat,17/12/2023,23,2500000,04/04/2022
+697540,Ca phe den Birdy,EU,Do uong giai khat,24/09/2023,13,11000000,14/10/2022
+584283,Nuoc uong Aquafina chai,Hoa Ky,Do uong giai khat,21/09/2024,5,18300000,09/01/2022
+714599,Nuoc uong dong chai Dasanni,Nhat Ban,Do uong giai khat,15/03/2024,8,13200000,23/09/2022
+333984,Nuoc uong trai cay Nutri boost,Viet Nam,Do uong giai khat,31/05/2024,9,11700000,14/04/2022
+327127,Nuoc cam ep Vfresh Vinamilk,Viet Nam,Do uong giai khat,08/03/2023,13,7700000,04/07/2022
+423631,Nuoc tang luc String huong dau,Viet Nam,Do uong giai khat,11/04/2023,38,5800000,27/02/2022
+643842,Nuoc uong co ga Cocacola,Hoa Ky,Do uong giai khat,16/09/2023,26,13100000,28/11/2022
+576421,Tra Nestea vi chanh,Viet Nam,Do uong giai khat,26/01/2024,30,3500000,29/06/2022
+325223,Tra gung hoa tan Tra Dai Gia,Viet Nam,Do uong giai khat,11/03/2023,26,9600000,16/08/2022
+121388,Nuoc mam ca com Phu Quoc Hong Hanh,Viet Nam,Gia vi,01/04/2023,34,15100000,27/08/2022
+305603,Nuoc mam Chinsu Nam Ngu,Viet Nam,Gia vi,08/05/2024,48,16300000,03/06/2022
+913785,Sot ca chua thit bo bam Barilla,Hoa Ky,Gia vi,07/11/2023,9,1800000,06/07/2022
+678551,Nuoc tuong Kikkoman chai,Nhat Ban,Gia vi,28/09/2024,15,4900000,11/06/2022
+426817,Bot ngot Miwon,Nhat Ban,Gia vi,25/10/2024,4,12700000,10/02/2022
+870671,Bot ngot Ajinomoto,Nhat Ban,Gia vi,28/12/2023,7,19700000,15/05/2022
+203676,Nuoc sot me rang Kewpie,Han Quoc,Gia vi,03/02/2023,44,10500000,26/05/2022
+795370,Nuoc sot tuong me Kewpie,Han Quoc,Gia vi,05/09/2023,24,9300000,08/06/2022
+319309,Nuoc tuong Phu Si Ajinomoto,Nhat Ban,Gia vi,02/10/2023,47,13400000,03/08/2022
+740366,Tuong ot Chinsu,Nhat Ban,Gia vi,15/06/2023,43,8300000,14/02/2022
+884942,Bot giat Lix extra,Thai Lan,Hoa pham tay rua,20/01/2023,5,5800000,04/09/2022
+237337,Nuoc xa Downy huong hoa hong,Thai Lan,Hoa pham tay rua,06/06/2023,4,12300000,24/01/2022
+828408,Nuoc giat dam dac Essence,EU,Hoa pham tay rua,21/02/2023,19,5900000,31/08/2022
+661235,Nuoc giat cho Carefor Plus,Hoa Ky,Hoa pham tay rua,26/04/2023,28,3500000,23/02/2022
+422811,Nuoc giat Lix dam dac,Viet Nam,Hoa pham tay rua,07/04/2024,20,17700000,15/08/2022
+425971,Nuoc giat co ao Mao Bao,Trung Quoc,Hoa pham tay rua,09/06/2024,20,18400000,07/11/2022
+476594,Nuoc tay bon cau Gift dam dac,Trung Quoc,Hoa pham tay rua,10/03/2023,25,2500000,16/01/2022
+196796,Nuoc tay rua bon cau Okay,Thai Lan,Hoa pham tay rua,15/10/2023,28,17800000,28/08/2022
+812028,Nuoc lau san Gift pink sukura,Nhat Ban,Hoa pham tay rua,03/08/2023,44,2100000,07/10/2022
+940343,Nuoc rua chen My Hao,Viet Nam,Hoa pham tay rua,29/09/2023,27,15100000,05/10/2022
+556977,Xi nuoc Kiwi,Trung Quoc,Hoa pham tay rua,18/02/2023,5,6600000,17/06/2022
+472056,Bot tay may giat Sandokkaebi,Han Quoc,Hoa pham tay rua,04/11/2024,49,19500000,30/04/2022
+329954,Mi Spaghettini Barilla,EU,Thuc pham an lien,05/04/2023,9,6900000,24/01/2022
+902873,Mi khoai tay Micoem,Viet Nam,Thuc pham an lien,24/10/2024,40,15300000,30/08/2022
+816497,Nui ong Xaoxi,Trung Quoc,Thuc pham an lien,23/05/2024,6,17000000,17/05/2022
+383830,Mi an lien Hao Hao,Viet Nam,Thuc pham an lien,15/12/2024,11,9400000,25/10/2022
+330935,Mi cay Koreno,Han Quoc,Thuc pham an lien,24/12/2023,15,10500000,13/07/2022
+394854,Mi udon nguyen vi Bon Go Jang Hanil Food,Han Quoc,Thuc pham an lien,11/08/2024,8,18700000,17/06/2022
+572693,Mi kim chi Samyang,Han Quoc,Thuc pham an lien,07/05/2023,23,3400000,24/07/2022
+427137,Mi tron an lien Jjajangmen Paldo,Trung Quoc,Thuc pham an lien,09/01/2023,15,8900000,26/04/2022
+788590,Mi cay Nissin vij sup cay,Trung Quoc,Thuc pham an lien,09/11/2024,30,17900000,08/04/2022
+882924,Banh gao tokpokki tron O'food,Han Quoc,Thuc pham an lien,29/08/2024,38,4000000,11/03/2022
+942911,Mien dong soi rut Thu Dung,Viet Nam,Thuc pham an lien,12/01/2023,33,11100000,09/04/2022
+320963,yen mach Uc nguyen chat Xuan An,Viet Nam,Thuc pham kho,21/01/2023,12,17900000,26/07/2022
+269226,Ca ngu ngam dau Seapimex,Thai Lan,Thuc pham kho,30/07/2024,45,2500000,27/11/2022
+736871,Bot mi da dung Meizan,Viet Nam,Thuc pham kho,01/02/2024,31,6600000,25/01/2022
+644274,Bot banh xeo Tai Ky,Viet Nam,Thuc pham kho,02/02/2023,30,3300000,18/11/2022
+127088,Rong bien Green World,Han Quoc,Thuc pham kho,08/09/2024,33,5800000,05/11/2022
+763212,Godbawee tao bien mini,Han Quoc,Thuc pham kho,04/04/2023,29,7200000,21/06/2022
+424523,Tao bien Green Sonka,Nhat Ban,Thuc pham kho,26/06/2023,32,7900000,15/01/2022
+327522,Ngu coc an sang Koko Krunch,Thai Lan,Thuc pham kho,23/09/2024,37,16200000,26/08/2022
+437179,Ngu coc dinh duong Muexlix Orchard Beauty,Thai Lan,Thuc pham kho,20/12/2022,35,15200000,29/10/2022
