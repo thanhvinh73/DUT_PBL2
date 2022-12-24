@@ -251,9 +251,7 @@ void Export(GoodsManagement &g, ListCustomer &lc, ListBill &lb)
         {
             if (check_export)
             {
-                string file_name = "Bill.txt";
-                // cout << dis << "Ten tep: "; 
-                // checkValidFileName(file_name);
+                string file_name = "../Bill.txt";
                 lb[lb.Get_vector().size()-1].Print(file_name);
                 cout << dis << "In hoa don thanh cong!..." << endl;
                 check_export = false;
