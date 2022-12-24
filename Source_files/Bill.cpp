@@ -215,6 +215,7 @@ void ListBill::Delete(string Bill_id)
 }
 void ListBill::Show()
 {
+    if (this->bill.size() == 0) { cout << distance() << "Hien tai khong co hoa don nao..." << endl; return; }
     for (int i = 0; i < this->bill.size(); i++)
     {
         (*this)[i].Show();

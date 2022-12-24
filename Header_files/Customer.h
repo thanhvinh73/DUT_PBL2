@@ -49,6 +49,6 @@ public:
 	void Input_from_file(string);
 	void Add(const Customer&);
 	void Update(int, int);
-	void Delete(string);
+	void Delete(string, ListBill&);
 	void Show_information(string = "");
 };

@@ -197,12 +197,16 @@ void ListCustomer::Update(int index, int option)
 	}
 
 }
-void ListCustomer::Delete(string id)
+void ListCustomer::Delete(string id, ListBill& lb)
 {
 	int index = this->Find_id(id);
     if (index == -1) throw string("Khong tim thay ID nay...");
 	else
 	{
+		for (int i = 0; i < (*this)[index].Get_vector().size(); i++)
+		{
+			lb.Delete((*this)[index].Get_vector()[i].Get_ID());
+		}
 		this->List.erase(index);
 	}	
 }
